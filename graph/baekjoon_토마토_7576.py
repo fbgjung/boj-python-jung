@@ -1,6 +1,6 @@
 from collections import deque
-m,n = map(int, input().split())
 
+m,n = map(int, input().split())
 graph = []
 
 for _ in range(n):
